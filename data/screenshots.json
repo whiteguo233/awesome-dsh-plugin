@@ -471,5 +471,12 @@
   "https://raw.githubusercontent.com/jiezeng2004-design/dsh-chatgpt-bridge/main/assets/screenshots/03-native-dsh-execution.png",
   "https://raw.githubusercontent.com/jiezeng2004-design/dsh-chatgpt-bridge/main/assets/screenshots/04-workspace-security.png",
   "https://raw.githubusercontent.com/jiezeng2004-design/dsh-chatgpt-bridge/main/assets/screenshots/05-bridge-health.png"
+ ],
+ "https://github.com/whiteguo233/dsh-openbiliclaw": [
+  "https://raw.githubusercontent.com/whiteguo233/dsh-openbiliclaw/main/docs/screenshots/overview-light.png",
+  "https://raw.githubusercontent.com/whiteguo233/dsh-openbiliclaw/main/docs/screenshots/overview-dark.png",
+  "https://raw.githubusercontent.com/whiteguo233/dsh-openbiliclaw/main/docs/screenshots/library-light.png",
+  "https://raw.githubusercontent.com/whiteguo233/dsh-openbiliclaw/main/docs/screenshots/dialogue-light.png",
+  "https://raw.githubusercontent.com/whiteguo233/dsh-openbiliclaw/main/docs/screenshots/profile-light.png"
  ]
 }

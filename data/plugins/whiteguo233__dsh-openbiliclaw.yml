@@ -1,0 +1,6 @@
+url: https://github.com/whiteguo233/dsh-openbiliclaw
+name: whiteguo233/dsh-openbiliclaw
+category: ui
+description:
+  en: 'Right-hand drawer for OpenBiliClaw inside DSH: recommendations, saved items, Socratic dialogue and profile, plus 22 Agent Bridge tools so the agent can read recommendations, answer probes and save items.'
+  zh: 把 OpenBiliClaw 的推荐流、内容库、苏格拉底式对话与画像做成 DSH 右侧抽屉，并注册 22 个 Agent Bridge 工具，让 Agent 能读推荐、答探测、存内容。
